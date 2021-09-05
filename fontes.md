@@ -1,4 +1,4 @@
-  Com tal finalidade, usaremos dados das seguintes fontes: 
+  Com a finalidade de analisar a Mega-Sena, usaremos dados das seguintes fontes: 
   
   1) [Página da Mega-Sena no Site da CAIXA](http://loterias.caixa.gov.br/wps/portal/loterias/landing/megasena), para obter os dados principais.
   
