@@ -3,7 +3,7 @@ title: "Uma breve análise da Mega-Sena"
 author: "Graciliano Márcio Santos Louredo"
 date: "05/09/2021"
 output: html_document
-
+# Nota: Uma página web pode ser construída a partir deste código no software R, com a ferramenta RMarkdown configurada. 
 ---
 
 ```{r setup, include=FALSE}
