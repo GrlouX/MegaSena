@@ -1,2 +1,2 @@
 # MegaSena
-Projeto sobre a loteria mega-sena da CAIXA.
+Conteúdo de análise da loteria Mega-Sena da CAIXA.
